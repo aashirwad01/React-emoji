@@ -1,14 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Ephesis&display=swap");
+
 .App {
   font-family: sans-serif;
   text-align: center;
+}
+body {
+  background-color: #ffb6c1;
 }
 input {
   min-width: 50%;
   padding: 1rem;
   margin: 1rem;
+  border-radius: 0.5rem;
+  border-color: #ff69b4;
 }
 #list {
   display: inline;
   padding: 1rem;
   font-size: 2.5rem;
+}
+
+#line-1 {
+  padding: 0.2rem;
+  color: #ff00ff;
+  font-family: "Ephesis", cursive;
+}
+
+#line-0 {
+  padding: 0.2rem;
+  color: red;
+  font-family: "Ephesis", cursive;
+}
+
+#line-2 {
+  padding: 1rem;
+  color: blueviolet;
+  font-family: "Ephesis", cursive;
 }
