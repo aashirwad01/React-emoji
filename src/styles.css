@@ -21,19 +21,23 @@ input {
 }
 
 #line-1 {
+  font-size: 3rem;
   padding: 0.2rem;
-  color: #ff00ff;
+  color: crimson;
   font-family: "Ephesis", cursive;
 }
 
 #line-0 {
+  font-size: 5rem;
+  margin-top: 10%;
   padding: 0.2rem;
-  color: red;
+  color: crimson;
   font-family: "Ephesis", cursive;
 }
 
 #line-2 {
+  font-size: 2.5rem;
   padding: 1rem;
-  color: blueviolet;
+  color: Fuchsia;
   font-family: "Ephesis", cursive;
 }

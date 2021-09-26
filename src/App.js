@@ -65,6 +65,8 @@ export default function App() {
       return "red";
     } else if (mean === "Face Without Mouth") {
       return "white";
+    } else if (mean === "Cowboy Hat Face") {
+      return "blueviolet";
     }
   }
 
